@@ -1,0 +1,12 @@
+{
+    "description": "Sites for my portopolio",
+    "repo": "https://github.com/North2Cool/North2Cool.github.io",
+    "owner": {
+        "username": "North2Cool",
+        "email": "north2cool@gmail.com",
+        "twitter": "ppphudaa"
+    },
+    "record": {
+        "CNAME": "North2Cool.github.io"
+    }
+} 
